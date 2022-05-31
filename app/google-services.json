@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "331575010975",
+    "firebase_url": "https://shayri-finder-default-rtdb.firebaseio.com",
+    "project_id": "shayri-finder",
+    "storage_bucket": "shayri-finder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331575010975:android:0609b7055ebdc0221024aa",
+        "android_client_info": {
+          "package_name": "com.smart.shayri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331575010975-d9mmtf0k5adj527g67fn9m5q8k42a2qj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI4adqAZaOwfQMxa17jfE3wEh4uAngyQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331575010975-d9mmtf0k5adj527g67fn9m5q8k42a2qj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331575010975:android:cdd06d3e87cad5d51024aa",
+        "android_client_info": {
+          "package_name": "com.smart.shayrifinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331575010975-d9mmtf0k5adj527g67fn9m5q8k42a2qj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI4adqAZaOwfQMxa17jfE3wEh4uAngyQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331575010975-d9mmtf0k5adj527g67fn9m5q8k42a2qj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
